@@ -1,0 +1,1 @@
+docker run --env-file=./backend/backend.env -d -p 3000:3000 fitfaces-backend:v1
